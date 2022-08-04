@@ -1,5 +1,6 @@
 import { ClassSection } from "./components/ClassSection";
 import { LoginSection } from "./components/LoginSection";
+import { MainSection } from "./components/MainSection";
 import { SplashScreen } from "./components/SplashScreen";
 
 export const App = () => {
@@ -12,6 +13,8 @@ export const App = () => {
 			<LoginSection />
 
 			<ClassSection />
+
+			<MainSection />
 		</>
 	);
 };
