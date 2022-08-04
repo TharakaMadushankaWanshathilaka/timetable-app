@@ -1,3 +1,4 @@
+import { LoginSection } from "./components/LoginSection";
 import { SplashScreen } from "./components/SplashScreen";
 
 export const App = () => {
@@ -6,6 +7,8 @@ export const App = () => {
 			<div id="message-content"></div>
 
 			<SplashScreen />
+
+			<LoginSection />
 		</>
 	);
 };
