@@ -1,3 +1,4 @@
+import { ClassSection } from "./components/ClassSection";
 import { LoginSection } from "./components/LoginSection";
 import { SplashScreen } from "./components/SplashScreen";
 
@@ -9,6 +10,8 @@ export const App = () => {
 			<SplashScreen />
 
 			<LoginSection />
+
+			<ClassSection />
 		</>
 	);
 };
