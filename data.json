@@ -134,6 +134,7 @@
                     "end": "11:30",
                     "type": "lec + tut",
                     "loc": "F502 IPU Hall"
+                    "link": "https://us02web.zoom.us/j/88087473193?pwd=WXRGaU9Ea1NpeExDZG1WcFJ4OTZUdz09"
                   },
                   {
                     "mod": "SE",
@@ -142,6 +143,7 @@
                     "end": "12:30",
                     "type": "tutorial",
                     "loc": "A308"
+                    "link": "https://us02web.zoom.us/j/82228273659?pwd=VzR5ckNQYVNDWTFjRUpwY0c4NStXdz09"
                   },
                   {
                     "mod": "DMS",
@@ -168,6 +170,7 @@
                     "end": "10:30",
                     "type": "practical 💻",
                     "loc": "602 + 603 Lab"
+                    "link": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_Mzk1OWI5NTAtMDI3YS00NWFiLWFmMjAtZTIxMzFjOTdkMmRl%40thread.v2/0?context=%7b%22Tid%22%3a%2244e3cf94-19c9-4e32-96c3-14f5bf01391a%22%2c%22Oid%22%3a%22538f3057-2b20-494e-9934-b0ee8bb6d8f7%22%7d"
                   },
                   {
                     "mod": "OSSA",
@@ -176,6 +179,7 @@
                     "end": "13:30",
                     "type": "practical 💻",
                     "loc": "N3A"
+                    "link": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTVmNWRiNzYtOWE2MC00NjhiLTgzZWQtMzU2YWNkYTlmNDE1%40thread.v2/0?context=%7b%22Tid%22%3a%2244e3cf94-19c9-4e32-96c3-14f5bf01391a%22%2c%22Oid%22%3a%224c02e199-4d30-4a15-931d-521e5c4f534e%22%7d"
                   },
                   {
                     "mod": "CN",
@@ -184,6 +188,7 @@
                     "end": "16:30",
                     "type": "practical 💻",
                     "loc": "N3A Lab"
+                    "link": "https://teams.microsoft.com/l/meetup-join/19%3anLn2QnlqO5mIVMieRNJ0ix2x_HXW3iVUA83jP914dO41%40thread.tacv2/1660033507451?context=%7b%22Tid%22%3a%2244e3cf94-19c9-4e32-96c3-14f5bf01391a%22%2c%22Oid%22%3a%220a205c46-b86a-48c7-8ab8-2be7d3fffd5e%22%7d"
                   }
                 ],
                 "wednesday": [
@@ -194,6 +199,7 @@
                     "end": "11:30",
                     "type": "practical",
                     "loc": "B401 PC Lab"
+                    "link": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWU0YTUwMGYtZWQ4OC00ZTVhLWIwMTktMGRhOGRjZTE2MzMy%40thread.v2/0?context=%7b%22Tid%22%3a%2244e3cf94-19c9-4e32-96c3-14f5bf01391a%22%2c%22Oid%22%3a%2285292dae-f371-426c-b273-1ede85ce3552%22%7d"
                   },
                   {
                     "mod": "CN",
@@ -212,6 +218,7 @@
                     "end": "10:30",
                     "type": "lecture 💻",
                     "loc": "F502 IPU Hall"
+                    "link": "https://us02web.zoom.us/j/85941503456?pwd=YjRWRXRHQXFtb2U4TG14RExZMjgxQT09"
                   },
                   {
                     "mod": "OSSA",
@@ -228,6 +235,7 @@
                     "end": "17:30",
                     "type": "lecture 💻",
                     "loc": "VA 4"
+                    "link": "https://us02web.zoom.us/j/83662219778?pwd=Y2oxK2l1eGU3UERVZEpya000SmVUZz09"
                   }
                 ],
                 "friday": [
@@ -238,6 +246,7 @@
                     "end": "13:30",
                     "type": "lecture",
                     "loc": "B501"
+                    "link": "https://us02web.zoom.us/j/88175894168?pwd=WVRiT0tDNDdRSDFSWEk1NGxYRS93Zz09"
                   },
                   {
                     "mod": "OOP",
@@ -246,6 +255,7 @@
                     "end": "17:30",
                     "type": "practical",
                     "loc": "602 +603 Lab"
+                   "link": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzJkNWM5MGUtMmY1Zi00Y2U0LWI2MDItMmU2ZWY3YTIzMzMx%40thread.v2/0?context=%7b%22Tid%22%3a%2244e3cf94-19c9-4e32-96c3-14f5bf01391a%22%2c%22Oid%22%3a%226f24a7be-da1e-4aa3-a749-47cfb7a5d7db%22%7d"
                   }
                 ],
                 "saturday": [],
